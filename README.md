@@ -1,1 +1,3 @@
 # contador-simples
+
+VOCÊ PODE EXECUTAR ESSE PROJETO VIA VSCODE!
